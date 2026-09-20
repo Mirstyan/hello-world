@@ -5,5 +5,6 @@ int main()
  std::cout<< "\n";
  std::cout<< "My name is";
  std::cout<< "\n";
+ return 0;
 }
 
